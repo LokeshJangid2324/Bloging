@@ -1,0 +1,2 @@
+/* Copy this file/object into articles.js, then fill every field. */
+const exampleArticle = {slug:'my-first-article',title:'Mera pehla TechSeekho article',category:'Technology',date:'2026-09-05',author:'Your Name',image:'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80',description:'One sentence summary that readers can understand.',tags:['technology','beginner'],popular:false,content:[['First heading','Your first paragraph goes here.'],['Second heading','Add as many heading and paragraph pairs as you need.']]};
